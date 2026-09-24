@@ -1,0 +1,501 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,City,Category,Product,Quantity,Unit_Price,Discount,Payment_Method,Order_Status
+ORD0001,2025-03-13,C161,Nigar,Ganja,Clothing,Backpack,3,45.27,0.0,Bank Transfer,Cancelled
+ORD0002,2025-12-10,C130,Elvin,Ganja,Clothing,Sneakers,4,18.4,0.0,Online Payment,Completed
+ORD0003,2026-04-20,C159,Emil,Ganja,Books,AI Book,4,9.2,0.2,Bank Transfer,Returned
+ORD0004,2026-05-20,C103,Nigar,Sumqayit,Home,Air Fryer,5,161.56,0.05,Cash,Completed
+ORD0005,2025-12-12,C153,Murad,Lankaran,Electronics,Smart Watch,4,262.21,0.05,Bank Transfer,Completed
+ORD0006,2026-07-16,C104,Murad,Shaki,Books,Data Analytics Book,2,55.28,0.05,Card,Completed
+ORD0007,2025-09-27,C195,Emil,Shaki,Furniture,Table Lamp,4,330.64,0.0,Online Payment,Cancelled
+ORD0008,2025-08-05,C160,Gunay,Mingachevir,Books,SQL Book,1,36.06,0.0,Card,Completed
+ORD0009,2026-04-17,C163,Tural,Sumqayit,Electronics,Headphones,1,352.07,0.1,Bank Transfer,Completed
+ORD0010,2025-02-10,C128,Sabina,Baku,Home,Kettle,4,279.0,0.0,Online Payment,Returned
+ORD0011,2026-07-01,C165,Leyla,Mingachevir,Books,Data Analytics Book,3,38.75,0.1,Cash,Returned
+ORD0012,2026-07-08,C177,Leyla,Baku,Home,Coffee Maker,4,217.54,0.05,Online Payment,Returned
+ORD0013,2026-06-25,C136,Samir,Sumqayit,Books,Excel Book,3,36.07,0.0,Cash,Completed
+ORD0014,2025-01-28,C144,Orxan,Shaki,Books,Python Book,3,13.49,0.0,Bank Transfer,Completed
+ORD0015,2025-10-10,C162,Rauf,Lankaran,Electronics,Headphones,5,137.02,0.15,Bank Transfer,Returned
+ORD0016,2025-08-13,C151,Zehra,Lankaran,Home,Coffee Maker,3,153.18,0.0,Online Payment,Completed
+ORD0017,2026-03-18,C152,Gunay,Shaki,Clothing,T-Shirt,2,25.71,0.1,Card,Completed
+ORD0018,2025-08-08,C154,Sabina,Mingachevir,Electronics,Keyboard,1,282.11,0.1,Cash,Completed
+ORD0019,2026-02-20,C168,Sabina,Sumqayit,Books,AI Book,3,31.28,0.0,Cash,Cancelled
+ORD0020,2026-05-26,C116,Aysel,Baku,Clothing,Jeans,4,119.53,0.05,Online Payment,Cancelled
+ORD0021,2026-02-07,C190,Leyla,Sumqayit,Home,Air Fryer,4,107.9,0.1,Online Payment,Completed
+ORD0022,2026-04-18,C150,Sabina,Shaki,Electronics,Wireless Mouse,2,380.22,0.0,Online Payment,Completed
+ORD0023,2025-01-02,C101,Lala,Lankaran,Electronics,Smart Watch,5,247.75,0.15,Bank Transfer,Completed
+ORD0024,2025-07-27,C103,Orxan,Shaki,Electronics,Keyboard,1,321.15,0.1,Bank Transfer,Completed
+ORD0025,2025-04-22,C189,Leyla,Baku,Clothing,Jacket,5,110.81,0.0,Cash,Completed
+ORD0026,2025-06-10,C168,Aysel,Shaki,Furniture,Bookshelf,5,238.63,0.0,Online Payment,Completed
+ORD0027,2026-04-15,C122,Lala,Shaki,Electronics,Headphones,5,253.29,0.05,Online Payment,Completed
+ORD0028,2025-10-11,C164,Aysel,Mingachevir,Home,Blender,4,114.77,0.1,Bank Transfer,Completed
+ORD0029,2025-06-21,C192,Lala,Mingachevir,Home,Coffee Maker,5,27.43,0.15,Online Payment,Completed
+ORD0030,2025-06-30,C195,Leyla,Lankaran,Books,Excel Book,1,30.27,0.0,Card,Cancelled
+ORD0031,2026-07-20,C158,Leyla,Shaki,Electronics,Keyboard,2,92.88,0.1,Cash,Completed
+ORD0032,2025-04-14,C133,Rauf,Sumqayit,Home,Blender,5,265.05,0.0,Cash,Completed
+ORD0033,2026-05-21,C107,Rauf,Lankaran,Furniture,Office Chair,5,225.68,0.0,Online Payment,Returned
+ORD0034,2025-04-02,C198,Murad,Shaki,Clothing,Sneakers,3,70.77,0.05,Bank Transfer,Returned
+ORD0035,2025-11-01,C152,Zehra,Shaki,Books,SQL Book,3,52.74,0.0,Card,Cancelled
+ORD0036,2025-04-13,C168,Elvin,Mingachevir,Clothing,Jacket,4,174.27,0.05,Bank Transfer,Completed
+ORD0037,2025-04-30,C163,Leyla,Lankaran,Books,SQL Book,2,34.85,0.0,Card,Completed
+ORD0038,2025-02-27,C101,Emil,Ganja,Books,Python Book,1,43.8,0.1,Card,Completed
+ORD0039,2025-09-04,C167,Gunay,Ganja,Books,Excel Book,3,39.81,0.1,Card,Cancelled
+ORD0040,2025-04-04,C162,,Mingachevir,Clothing,Backpack,4,30.54,0.0,Cash,Cancelled
+ORD0041,2025-12-23,C123,Zehra,Ganja,Clothing,T-Shirt,5,91.67,0.15,Online Payment,Completed
+ORD0042,2025-11-21,C104,Kamran,Ganja,Furniture,Bookshelf,1,191.0,0.15,Online Payment,Completed
+ORD0043,2026-01-15,C133,Aysel,Mingachevir,Clothing,Jacket,3,79.05,0.1,Online Payment,Completed
+ORD0044,2025-02-12,C144,Samir,Mingachevir,Electronics,Headphones,4,300.14,0.0,Cash,Cancelled
+ORD0045,2025-03-31,C108,Samir,Ganja,Home,Blender,2,209.66,0.0,Cash,Completed
+ORD0046,2026-05-08,C175,Samir,Lankaran,Electronics,Smart Watch,1,317.94,0.1,Card,Completed
+ORD0047,2025-07-11,C199,Aysel,Sumqayit,Furniture,Monitor Stand,4,270.2,0.05,Bank Transfer,Returned
+ORD0048,2026-06-09,C123,Rauf,Sumqayit,Books,AI Book,1,30.31,0.05,Card,Returned
+ORD0049,2025-01-19,C149,Orxan,Lankaran,Clothing,T-Shirt,5,67.81,0.15,Online Payment,Completed
+ORD0050,2026-01-02,C116,Nigar,Mingachevir,Clothing,Jacket,3,109.62,0.1,Online Payment,Completed
+ORD0051,2025-05-24,C157,Sabina,Mingachevir,Books,AI Book,5,57.2,0.05,Bank Transfer,Returned
+ORD0052,2025-08-23,C175,Murad,Lankaran,Furniture,Monitor Stand,1,265.85,0.1,Online Payment,Completed
+ORD0053,2026-01-28,C150,Tural,Ganja,Books,Excel Book,2,19.57,0.0,Card,Returned
+ORD0054,2026-05-15,C117,Emil,Baku,Home,Kettle,5,120.63,0.1,Cash,Completed
+ORD0055,2025-06-16,C191,Zehra,Ganja,Home,Kettle,3,122.73,0.0,Bank Transfer,Cancelled
+ORD0056,2025-02-27,C120,Gunay,Mingachevir,Books,SQL Book,1,32.37,0.1,Bank Transfer,Cancelled
+ORD0057,2026-01-04,C125,Kamran,Baku,Clothing,T-Shirt,5,76.85,0.2,Online Payment,Cancelled
+ORD0058,2025-03-21,C185,Tural,Lankaran,Books,Excel Book,5,24.78,0.0,Bank Transfer,Completed
+ORD0059,2025-11-01,C114,Emil,Baku,Electronics,Wireless Mouse,5,91.47,0.1,Bank Transfer,Completed
+ORD0060,2025-12-24,C176,Kamran,Lankaran,Home,Air Fryer,5,288.23,0.0,Online Payment,Completed
+ORD0061,2026-06-24,C192,Nigar,Baku,Furniture,Desk,4,103.41,0.2,Cash,Completed
+ORD0062,2026-04-06,C192,Samir,Mingachevir,Electronics,Headphones,3,196.82,0.1,Cash,Completed
+ORD0063,2025-08-30,C105,Sabina,Baku,Books,Python Book,1,29.75,0.05,Bank Transfer,Completed
+ORD0064,2025-08-05,C186,Tural,Sumqayit,Home,Kettle,1,228.63,0.1,Cash,Completed
+ORD0065,2026-06-02,C192,Aysel,Mingachevir,Home,Coffee Maker,5,18.9,0.2,Card,Cancelled
+ORD0066,2025-03-24,C117,Nigar,Shaki,Books,Excel Book,1,47.37,0.0,Bank Transfer,Cancelled
+ORD0067,2026-05-03,C132,Murad,Lankaran,Books,AI Book,2,19.89,0.05,Cash,Returned
+ORD0068,2025-02-23,C105,Lala,Shaki,Home,Vacuum Cleaner,3,102.72,0.05,Online Payment,Cancelled
+ORD0069,2025-04-13,C138,Gunay,Ganja,Books,SQL Book,2,49.86,0.05,Cash,Completed
+ORD0070,2025-06-15,C197,Kamran,Lankaran,Home,Blender,2,114.25,0.15,Card,Cancelled
+ORD0071,2025-11-26,C117,Gunay,Lankaran,Clothing,Jeans,5,167.89,0.2,Card,Completed
+ORD0072,2025-04-21,C123,Sabina,Sumqayit,Books,Data Analytics Book,4,38.14,0.0,Online Payment,Completed
+ORD0073,2025-03-02,C151,Leyla,Mingachevir,Home,Vacuum Cleaner,5,161.84,0.0,Cash,Cancelled
+ORD0074,2026-06-08,C190,Lala,Ganja,Books,Python Book,1,35.79,0.05,Card,Completed
+ORD0075,2025-05-01,C186,Emil,Shaki,Electronics,Wireless Mouse,3,363.75,0.15,Card,Completed
+ORD0076,2025-09-10,C152,Emil,Shaki,Furniture,Table Lamp,2,287.98,0.1,Cash,Completed
+ORD0077,2025-11-08,C107,Leyla,Shaki,Books,SQL Book,3,9.91,0.05,Card,Completed
+ORD0078,2025-07-11,C189,Sabina,Mingachevir,Furniture,Bookshelf,4,157.09,0.0,Card,Completed
+ORD0079,2026-06-09,C184,Rauf,Lankaran,Furniture,Table Lamp,2,104.63,0.1,Card,Completed
+ORD0080,2026-01-04,C183,Zehra,Baku,Clothing,Jeans,5,107.03,0.05,Cash,Completed
+ORD0081,2026-01-12,C133,Nigar,Shaki,Home,Vacuum Cleaner,5,296.16,0.0,Bank Transfer,Completed
+ORD0082,2025-08-31,C131,Kamran,Mingachevir,Home,Coffee Maker,4,37.87,0.2,Cash,Completed
+ORD0083,2025-04-28,C194,Kamran,Shaki,Clothing,Jacket,3,166.37,0.1,Cash,Completed
+ORD0084,2025-11-22,C126,Elvin,Lankaran,Furniture,Bookshelf,3,298.35,0.0,Online Payment,Completed
+ORD0085,2025-11-16,C138,Nigar,Shaki,Clothing,T-Shirt,3,115.75,0.15,Card,Completed
+ORD0086,2025-01-10,C105,Sabina,Ganja,Home,Coffee Maker,4,120.23,0.0,Online Payment,Completed
+ORD0087,2025-11-25,C117,Rauf,Sumqayit,Clothing,T-Shirt,3,37.91,0.0,Card,Cancelled
+ORD0088,2026-01-11,C175,Rauf,Ganja,Clothing,Jacket,4,82.41,0.05,Card,Returned
+ORD0089,2025-08-17,C114,Gunay,Shaki,Clothing,Backpack,3,38.06,0.0,Card,Completed
+ORD0090,2026-08-24,C142,Rauf,Ganja,Home,Blender,3,273.74,0.1,Card,Completed
+ORD0091,2026-05-18,C166,Lala,Mingachevir,Electronics,Headphones,3,406.82,0.05,Cash,Returned
+ORD0092,2026-03-24,C115,Emil,Mingachevir,Home,Vacuum Cleaner,1,110.45,0.05,Bank Transfer,Completed
+ORD0093,2025-04-07,C127,Sabina,Baku,Clothing,Backpack,4,40.03,0.05,Cash,Cancelled
+ORD0094,2025-06-08,C147,Orxan,Mingachevir,Home,Blender,4,112.49,0.05,Card,Cancelled
+ORD0095,2025-05-10,C127,Emil,Sumqayit,Books,AI Book,3,45.56,0.05,Cash,Completed
+ORD0096,2025-09-11,C174,Kamran,Shaki,Home,Kettle,2,250.64,0.15,Online Payment,Completed
+ORD0097,2026-04-05,C200,Orxan,Mingachevir,Books,SQL Book,5,39.8,0.1,Cash,Completed
+ORD0098,2025-02-20,C129,Lala,Baku,Clothing,Jeans,3,26.37,0.05,Cash,Cancelled
+ORD0099,2025-07-01,C187,Rauf,Baku,Books,SQL Book,3,51.62,0.05,Card,Completed
+ORD0100,2025-11-09,C126,Rauf,Sumqayit,Books,Python Book,4,18.69,0.05,Bank Transfer,Returned
+ORD0101,2025-12-13,C117,Tural,Sumqayit,Furniture,Desk,4,183.87,0.15,Cash,Completed
+ORD0102,2025-06-26,C129,Emil,Sumqayit,Clothing,Backpack,2,165.95,0.0,Card,Completed
+ORD0103,2025-05-28,C186,Gunay,Mingachevir,Electronics,Smart Watch,1,217.37,0.0,Online Payment,Cancelled
+ORD0104,2025-11-14,C132,Lala,Mingachevir,Home,Vacuum Cleaner,1,242.94,0.0,Cash,Completed
+ORD0105,2025-06-24,C166,Elvin,Lankaran,Furniture,Office Chair,1,278.17,0.05,Cash,Completed
+ORD0106,2025-02-24,C103,Zehra,Ganja,Clothing,T-Shirt,3,70.17,0.1,Online Payment,Completed
+ORD0107,2025-01-08,C165,Rauf,Sumqayit,Clothing,Jeans,3,158.05,0.05,Online Payment,Returned
+ORD0108,2026-08-27,C108,Murad,Sumqayit,Electronics,Power Bank,3,96.77,0.2,Online Payment,Cancelled
+ORD0109,2025-05-31,C185,Leyla,Mingachevir,Books,SQL Book,3,8.68,0.05,Online Payment,Completed
+ORD0110,2026-06-07,C102,Leyla,Lankaran,Furniture,Office Chair,4,291.58,0.1,Cash,Returned
+ORD0111,2026-05-15,C186,Gunay,Baku,Electronics,Wireless Mouse,2,390.26,0.05,Bank Transfer,Returned
+ORD0112,2026-06-10,C109,Kamran,Ganja,Electronics,Wireless Mouse,5,29.66,0.05,Card,Returned
+ORD0113,2025-01-29,C198,Sabina,Mingachevir,Home,Air Fryer,3,52.7,0.1,Online Payment,Cancelled
+ORD0114,2025-02-03,C117,Nigar,Baku,Furniture,Table Lamp,2,189.39,0.1,Card,Completed
+ORD0115,2025-06-17,C198,Gunay,Mingachevir,Books,Data Analytics Book,1,54.8,0.05,Cash,Cancelled
+ORD0116,2026-07-12,C164,Murad,Lankaran,Electronics,Wireless Mouse,3,193.88,0.0,Card,Completed
+ORD0117,2025-10-23,C111,Orxan,Baku,Home,Blender,3,34.45,0.0,Bank Transfer,Returned
+ORD0118,2026-07-02,C120,Leyla,Sumqayit,Furniture,Monitor Stand,4,184.8,0.0,Cash,Completed
+ORD0119,2025-06-03,C166,Nigar,Baku,Books,Data Analytics Book,1,25.38,0.05,Card,Completed
+ORD0120,2025-01-25,C139,Leyla,Sumqayit,Books,Data Analytics Book,2,39.11,0.1,Online Payment,Completed
+ORD0121,2025-02-13,C159,Tural,Baku,Furniture,Table Lamp,5,145.51,0.1,Card,Completed
+ORD0122,2025-03-22,C187,Nigar,Shaki,Clothing,Sneakers,1,135.82,0.15,Online Payment,Completed
+ORD0123,2025-02-16,C132,Zehra,Baku,Furniture,Office Chair,2,332.1,0.05,Cash,Returned
+ORD0124,2026-05-13,C159,Sabina,Mingachevir,Books,Python Book,2,18.02,0.1,Online Payment,Completed
+ORD0125,2025-09-30,C114,Emil,Sumqayit,Furniture,Bookshelf,4,295.25,0.0,Cash,Completed
+ORD0126,2025-07-02,C187,Gunay,Baku,Books,Data Analytics Book,4,25.67,0.1,Card,Cancelled
+ORD0127,2026-03-02,C166,Sabina,Sumqayit,Furniture,Office Chair,2,313.51,0.2,Bank Transfer,Cancelled
+ORD0128,2025-02-08,C146,Orxan,Mingachevir,Books,SQL Book,1,56.83,0.05,Card,Completed
+ORD0129,2025-09-23,C130,Rauf,Lankaran,Electronics,Smart Watch,5,443.16,0.1,Card,Completed
+ORD0130,2025-10-20,C125,Aysel,Mingachevir,Books,SQL Book,1,23.41,0.0,Card,Completed
+ORD0131,2025-03-02,C143,Gunay,Shaki,Clothing,Sneakers,3,171.74,0.15,Cash,Completed
+ORD0132,2026-07-29,C154,Nigar,Sumqayit,Clothing,Jacket,5,53.23,0.0,Bank Transfer,Completed
+ORD0133,2026-05-21,C103,Kamran,Shaki,Electronics,Wireless Mouse,5,35.79,0.0,Bank Transfer,Completed
+ORD0134,2026-07-27,C135,Murad,Ganja,Electronics,Keyboard,1,276.83,0.0,Online Payment,Completed
+ORD0135,2025-11-25,C168,Lala,Mingachevir,Books,Excel Book,2,35.92,0.05,Online Payment,Completed
+ORD0136,2025-07-14,C125,,Lankaran,Home,Air Fryer,2,150.85,0.1,Online Payment,Completed
+ORD0137,2025-05-04,C179,Elvin,Sumqayit,Books,Data Analytics Book,5,12.52,0.0,Cash,Returned
+ORD0138,2026-08-16,C140,Samir,Shaki,Books,AI Book,5,13.69,0.15,Bank Transfer,Completed
+ORD0139,2025-09-19,C188,Leyla,Lankaran,Home,Kettle,1,91.1,0.0,Online Payment,Completed
+ORD0140,2025-06-19,C200,Emil,Sumqayit,Books,Data Analytics Book,4,20.41,0.0,Bank Transfer,Cancelled
+ORD0141,2026-06-19,C142,Zehra,Sumqayit,Furniture,Office Chair,5,39.36,0.1,Bank Transfer,Completed
+ORD0142,2026-06-08,C139,Murad,Mingachevir,Clothing,Jeans,3,152.3,0.2,Card,Completed
+ORD0143,2025-11-22,C183,Lala,Ganja,Clothing,Backpack,1,143.67,0.2,Bank Transfer,Completed
+ORD0144,2025-07-15,C120,Orxan,Ganja,Clothing,Backpack,4,31.91,0.0,Card,Completed
+ORD0145,2025-01-22,C190,Kamran,Sumqayit,Electronics,Wireless Mouse,2,223.64,0.15,Online Payment,Cancelled
+ORD0146,2026-01-16,C176,Sabina,Mingachevir,Clothing,Jacket,3,121.85,0.1,Bank Transfer,Completed
+ORD0147,2026-04-27,C146,Murad,Mingachevir,Home,Blender,4,15.29,0.05,,Completed
+ORD0148,2025-05-10,C147,Lala,Lankaran,Books,Excel Book,3,23.52,0.0,Card,Returned
+ORD0149,2025-10-30,C180,Nigar,Sumqayit,Clothing,Jacket,4,135.66,0.05,Card,Cancelled
+ORD0150,2026-06-11,C134,Samir,Sumqayit,Home,Vacuum Cleaner,1,131.66,0.1,Online Payment,Completed
+ORD0151,2026-03-06,C189,Aysel,Mingachevir,Clothing,Sneakers,5,174.75,0.0,Bank Transfer,Returned
+ORD0152,2025-12-15,C164,Gunay,Mingachevir,Furniture,Table Lamp,4,35.72,0.2,Online Payment,Returned
+ORD0153,2026-06-05,C138,Rauf,Lankaran,Electronics,Headphones,5,281.14,0.0,Online Payment,Completed
+ORD0154,2025-10-01,C194,Murad,Shaki,Books,Python Book,3,8.6,0.1,Card,Completed
+ORD0155,2025-03-29,C141,Aysel,Lankaran,Electronics,Keyboard,1,226.62,0.05,Bank Transfer,Returned
+ORD0156,2025-08-30,C197,Murad,Baku,Clothing,Jacket,1,72.09,0.15,Cash,Completed
+ORD0157,2025-04-13,C166,Elvin,Ganja,Books,AI Book,2,26.61,0.1,Cash,Completed
+ORD0158,2025-11-13,C167,Tural,Shaki,Clothing,T-Shirt,1,172.01,0.15,Bank Transfer,Completed
+ORD0159,2025-11-14,C184,Lala,Sumqayit,Furniture,Table Lamp,3,308.71,0.15,Online Payment,Returned
+ORD0160,2025-05-07,C141,Gunay,Ganja,Furniture,Desk,3,183.89,0.1,Online Payment,Completed
+ORD0161,2025-05-02,C119,Sabina,Shaki,Books,Python Book,4,53.33,0.1,Card,Cancelled
+ORD0162,2026-07-03,C196,Kamran,Baku,Home,Air Fryer,3,173.28,0.1,Cash,Completed
+ORD0163,2025-07-26,C197,Sabina,Lankaran,Home,Kettle,1,35.58,0.15,Bank Transfer,Completed
+ORD0164,2025-12-30,C120,Gunay,Ganja,Books,AI Book,1,40.7,0.05,Card,Completed
+ORD0165,2026-08-01,C179,Murad,Lankaran,Furniture,Monitor Stand,2,156.56,0.2,Cash,Returned
+ORD0166,2026-06-14,C140,Nigar,Baku,Books,AI Book,3,27.96,0.1,Online Payment,Returned
+ORD0167,2025-01-02,C137,Nigar,Shaki,Furniture,Table Lamp,5,149.31,0.05,Cash,Completed
+ORD0168,2025-05-25,C189,Rauf,Lankaran,Books,Python Book,2,42.46,0.15,Card,Completed
+ORD0169,2025-10-30,C131,Tural,Ganja,Clothing,Jacket,3,175.02,0.05,Online Payment,Completed
+ORD0170,2025-12-27,C101,Nigar,Lankaran,Books,SQL Book,3,42.81,0.15,Card,Returned
+ORD0171,2025-07-23,C137,Aysel,Baku,Clothing,Jacket,4,21.05,0.05,Bank Transfer,Returned
+ORD0172,2025-11-30,C102,Rauf,Mingachevir,Clothing,Sneakers,4,33.47,0.0,Card,Completed
+ORD0173,2025-06-10,C151,Lala,Lankaran,Books,Excel Book,2,12.6,0.05,Cash,Completed
+ORD0174,2025-07-04,C139,Emil,Sumqayit,Home,Blender,2,107.09,0.0,Cash,Completed
+ORD0175,2026-01-10,C108,Murad,Mingachevir,Books,AI Book,1,44.64,0.1,Card,Returned
+ORD0176,2025-04-29,C190,Tural,Ganja,Books,SQL Book,2,42.4,0.0,Cash,Completed
+ORD0177,2025-01-01,C119,,Shaki,Clothing,Sneakers,5,168.61,0.1,Card,Completed
+ORD0178,2026-07-29,C173,Aysel,Baku,Clothing,Jeans,1,179.9,0.15,Card,Cancelled
+ORD0179,2026-01-16,C104,Elvin,Sumqayit,Books,Python Book,2,13.67,0.1,Card,Completed
+ORD0180,2026-03-31,C189,Nigar,Baku,Books,Data Analytics Book,4,27.53,0.1,Bank Transfer,Cancelled
+ORD0181,2026-02-21,C149,Aysel,Sumqayit,Home,Air Fryer,4,171.32,0.0,Bank Transfer,Completed
+ORD0182,2025-01-03,C185,Zehra,Ganja,Furniture,Desk,4,178.32,0.0,Cash,Completed
+ORD0183,2025-10-20,C179,Gunay,Lankaran,Clothing,Backpack,3,80.81,0.1,Cash,Returned
+ORD0184,2025-01-21,C123,Tural,Mingachevir,Furniture,Table Lamp,4,335.77,0.2,Online Payment,Completed
+ORD0185,2026-04-15,C119,Murad,Shaki,Home,Air Fryer,5,281.31,0.1,Card,Completed
+ORD0186,2025-10-18,C108,Zehra,Lankaran,Home,Kettle,2,243.86,0.05,Card,Completed
+ORD0187,2025-09-20,C195,Gunay,Ganja,Furniture,Office Chair,5,197.19,0.0,Bank Transfer,Completed
+ORD0188,2025-02-05,C184,Orxan,Shaki,Furniture,Monitor Stand,1,112.1,0.05,Card,Completed
+ORD0189,2025-04-28,C121,Elvin,Lankaran,Home,Kettle,1,186.46,0.1,Bank Transfer,Completed
+ORD0190,2026-08-07,C124,Aysel,Ganja,Furniture,Office Chair,3,298.76,0.1,Cash,Completed
+ORD0191,2025-05-26,C119,Orxan,Ganja,Clothing,Jacket,1,125.79,0.05,Card,Completed
+ORD0192,2026-03-08,C137,Emil,Sumqayit,Home,Air Fryer,4,260.9,0.0,Bank Transfer,Completed
+ORD0193,2025-09-11,C125,Murad,Sumqayit,Electronics,Power Bank,5,275.62,0.1,Cash,Returned
+ORD0194,2025-10-07,C160,Lala,Sumqayit,Books,Python Book,4,44.01,0.1,Cash,Cancelled
+ORD0195,2025-03-14,C108,Aysel,Sumqayit,Clothing,Backpack,1,162.54,0.1,Card,Completed
+ORD0196,2026-03-04,C127,,Shaki,Clothing,Jeans,2,125.48,0.1,Online Payment,Cancelled
+ORD0197,2025-05-10,C187,Gunay,Ganja,Furniture,Bookshelf,1,90.9,0.2,Bank Transfer,Returned
+ORD0198,2026-03-29,C177,Samir,Baku,Clothing,Jacket,2,29.65,0.0,Card,Completed
+ORD0199,2026-05-30,C116,Lala,Mingachevir,Electronics,Smart Watch,4,441.93,0.2,Cash,Cancelled
+ORD0200,2025-10-13,C121,Orxan,Shaki,Clothing,Jacket,2,55.2,0.1,Online Payment,Completed
+ORD0201,2026-05-24,C114,Orxan,Baku,Books,AI Book,2,48.67,0.0,Card,Cancelled
+ORD0202,2026-03-25,C175,Leyla,Lankaran,Furniture,Bookshelf,2,106.5,0.1,Bank Transfer,Returned
+ORD0203,2025-11-12,C112,Emil,Baku,Home,Vacuum Cleaner,2,178.76,0.05,,Completed
+ORD0204,2026-06-10,C173,Emil,Mingachevir,Furniture,Bookshelf,3,282.81,0.0,Cash,Completed
+ORD0205,2025-09-23,C125,Murad,Baku,Furniture,Table Lamp,5,213.37,0.15,Online Payment,Returned
+ORD0206,2026-04-28,C141,Elvin,Baku,Electronics,Power Bank,5,156.54,0.05,Online Payment,Cancelled
+ORD0207,2026-08-03,C145,Gunay,Lankaran,Furniture,Table Lamp,4,73.25,0.0,Cash,Completed
+ORD0208,2026-01-25,C132,Samir,Sumqayit,Furniture,Monitor Stand,2,63.81,0.1,Bank Transfer,Completed
+ORD0209,2025-12-11,C102,Lala,Sumqayit,Books,Data Analytics Book,2,17.97,0.0,Online Payment,Completed
+ORD0210,2025-11-25,C128,Lala,Shaki,Home,Coffee Maker,3,55.54,0.0,Online Payment,Completed
+ORD0211,2026-07-06,C117,Nigar,Lankaran,Electronics,Smart Watch,4,292.27,0.0,Online Payment,Completed
+ORD0212,2026-07-28,C199,Sabina,Sumqayit,Furniture,Monitor Stand,4,313.71,0.05,Bank Transfer,Cancelled
+ORD0213,2026-01-21,C162,Tural,Mingachevir,Books,Excel Book,5,8.57,0.1,Cash,Cancelled
+ORD0214,2025-08-30,C185,Nigar,Ganja,Electronics,Power Bank,5,25.21,0.2,Online Payment,Completed
+ORD0215,2025-11-04,C155,Nigar,Ganja,Home,Coffee Maker,4,171.17,0.15,Online Payment,Completed
+ORD0216,2026-03-12,C129,Elvin,Ganja,Furniture,Bookshelf,5,150.28,0.2,Card,Completed
+ORD0217,2025-05-10,C160,Samir,Baku,Electronics,Headphones,2,425.42,0.15,Online Payment,Completed
+ORD0218,2025-07-19,C149,Emil,Baku,Books,AI Book,4,41.13,0.05,Card,Completed
+ORD0219,2025-04-11,C108,Samir,Baku,Books,AI Book,3,34.64,0.1,Bank Transfer,Completed
+ORD0220,2025-08-20,C158,Emil,Shaki,Electronics,Power Bank,4,238.69,0.0,Bank Transfer,Completed
+ORD0221,2026-03-18,C105,Nigar,Shaki,Home,Air Fryer,2,116.13,0.0,Online Payment,Completed
+ORD0222,2026-04-08,C150,Leyla,Baku,Electronics,Headphones,4,439.68,0.1,Cash,Completed
+ORD0223,2025-07-09,C110,Nigar,Lankaran,Electronics,Headphones,4,248.03,0.05,Cash,Returned
+ORD0224,2025-10-15,C132,Gunay,Ganja,Books,Excel Book,3,55.86,0.0,Card,Completed
+ORD0225,2025-05-04,C189,Murad,Shaki,Electronics,Headphones,4,181.68,0.0,Card,Completed
+ORD0226,2025-05-02,C132,Lala,Baku,Home,Coffee Maker,4,199.06,0.15,Cash,Cancelled
+ORD0227,2025-10-29,C107,Sabina,Lankaran,Books,Excel Book,3,58.88,0.0,Cash,Completed
+ORD0228,2026-04-11,C102,Samir,Mingachevir,Electronics,Smart Watch,4,38.56,0.1,Bank Transfer,Completed
+ORD0229,2026-02-25,C161,Aysel,Sumqayit,Clothing,Backpack,3,83.21,0.0,Cash,Completed
+ORD0230,2025-12-28,C158,Kamran,Baku,Electronics,Power Bank,4,88.83,0.1,Card,Completed
+ORD0231,2026-04-18,C110,Nigar,Shaki,Home,Blender,3,202.4,0.0,Card,Cancelled
+ORD0232,2025-08-22,C190,Zehra,Shaki,Electronics,Smart Watch,4,245.39,0.1,Cash,Completed
+ORD0233,2026-08-10,C116,Leyla,Shaki,Furniture,Monitor Stand,3,147.74,0.2,Online Payment,Cancelled
+ORD0234,2025-08-15,C126,Nigar,Shaki,Clothing,Jacket,5,143.77,0.0,Bank Transfer,Cancelled
+ORD0235,2025-01-20,C117,Sabina,Lankaran,Furniture,Table Lamp,5,88.02,0.1,Online Payment,Cancelled
+ORD0236,2026-06-20,C134,Lala,Ganja,Furniture,Table Lamp,3,209.41,0.0,Online Payment,Completed
+ORD0237,2025-04-19,C176,Lala,Ganja,Electronics,Keyboard,5,45.18,0.1,Online Payment,Completed
+ORD0238,2025-04-23,C155,Aysel,Ganja,Books,AI Book,4,14.36,0.0,Online Payment,Completed
+ORD0239,2025-06-10,C117,Elvin,Lankaran,Home,Coffee Maker,4,280.94,0.1,Bank Transfer,Returned
+ORD0240,2026-08-25,C116,Nigar,Baku,Clothing,Sneakers,4,137.1,0.05,Cash,Completed
+ORD0241,2025-09-11,C170,Aysel,Sumqayit,Books,Data Analytics Book,5,9.26,0.1,Bank Transfer,Completed
+ORD0242,2025-12-15,C164,Nigar,Lankaran,Home,Blender,1,263.73,0.05,Online Payment,Cancelled
+ORD0243,2025-10-22,C135,Aysel,Baku,Clothing,Jeans,4,28.3,0.1,Cash,Returned
+ORD0244,2026-06-27,C184,Kamran,Baku,Clothing,Jacket,4,37.33,0.0,Online Payment,Completed
+ORD0245,2025-08-08,C114,Kamran,Ganja,Furniture,Table Lamp,2,118.23,0.1,Cash,Completed
+ORD0246,2026-08-19,C182,Zehra,Sumqayit,Electronics,Power Bank,1,386.83,0.0,Cash,Completed
+ORD0247,2025-07-22,C120,Kamran,Mingachevir,Home,Blender,2,223.75,0.1,Online Payment,Returned
+ORD0248,2025-03-23,C169,Leyla,Ganja,Electronics,Power Bank,5,441.96,0.05,Bank Transfer,Completed
+ORD0249,2026-03-21,C141,Aysel,Ganja,Electronics,Power Bank,5,281.67,0.0,Cash,Completed
+ORD0250,2026-07-27,C198,Gunay,Ganja,Electronics,Headphones,3,441.62,0.0,Cash,Completed
+ORD0251,2025-07-17,C198,Aysel,Ganja,Electronics,Wireless Mouse,5,55.14,0.0,Cash,Completed
+ORD0252,2026-03-11,C139,Elvin,Lankaran,Furniture,Desk,4,177.93,0.05,Bank Transfer,Completed
+ORD0253,2026-01-18,C168,Lala,Lankaran,Electronics,Power Bank,5,90.82,0.1,Online Payment,Completed
+ORD0254,2025-02-27,C128,Zehra,Baku,Home,Kettle,2,143.6,0.0,Cash,Completed
+ORD0255,2025-08-15,C106,Sabina,Lankaran,Clothing,T-Shirt,1,79.47,0.05,Bank Transfer,Completed
+ORD0256,2025-09-25,C174,Kamran,Lankaran,Books,Data Analytics Book,4,18.17,0.1,Card,Cancelled
+ORD0257,2026-04-13,C170,Gunay,Ganja,Electronics,Wireless Mouse,3,87.92,0.05,Bank Transfer,Completed
+ORD0258,2026-06-04,C132,Gunay,Sumqayit,Home,Coffee Maker,5,185.46,0.05,Cash,Returned
+ORD0259,2025-01-16,C101,Emil,Mingachevir,Home,Coffee Maker,5,244.03,0.1,Card,Completed
+ORD0260,2026-07-25,C127,Nigar,Baku,Clothing,Jacket,3,160.52,0.05,Card,Completed
+ORD0261,2025-08-15,C161,Gunay,Mingachevir,Furniture,Desk,1,55.41,0.1,Cash,Returned
+ORD0262,2026-01-30,C166,Emil,Lankaran,Home,Air Fryer,4,104.59,0.0,Online Payment,Completed
+ORD0263,2025-10-04,C128,Kamran,Ganja,Home,Air Fryer,1,110.53,0.0,Online Payment,Completed
+ORD0264,2025-11-10,C175,Rauf,Shaki,Electronics,Keyboard,1,213.65,0.1,Bank Transfer,Returned
+ORD0265,2025-09-29,C134,Murad,Sumqayit,Home,Vacuum Cleaner,4,23.87,0.1,Cash,Completed
+ORD0266,2025-07-10,C167,Orxan,Ganja,Clothing,Jacket,1,178.64,0.0,Bank Transfer,Cancelled
+ORD0267,2025-10-29,C114,Orxan,Lankaran,Home,Coffee Maker,1,101.62,0.1,Bank Transfer,Completed
+ORD0268,2025-09-08,C191,Sabina,Sumqayit,Books,SQL Book,3,41.84,0.05,Cash,Returned
+ORD0269,2026-07-01,C119,Lala,Shaki,Clothing,Backpack,3,105.2,0.05,Card,Returned
+ORD0270,2026-03-02,C119,Rauf,Lankaran,Furniture,Office Chair,4,123.51,0.2,Cash,Completed
+ORD0271,2026-05-23,C119,Emil,Lankaran,Home,Air Fryer,5,251.38,0.05,Online Payment,Completed
+ORD0272,2025-03-30,C114,Tural,Mingachevir,Electronics,Headphones,3,221.57,0.0,Cash,Returned
+ORD0273,2026-05-29,C186,Rauf,Mingachevir,Electronics,Smart Watch,1,47.73,0.0,Online Payment,Completed
+ORD0274,2025-11-21,C148,Orxan,Mingachevir,Home,Blender,3,178.4,0.05,Card,Cancelled
+ORD0275,2025-02-04,C181,Murad,Baku,Electronics,Power Bank,5,34.04,0.1,Online Payment,Completed
+ORD0276,2026-08-28,C122,Kamran,Mingachevir,Clothing,T-Shirt,3,71.23,0.05,Card,Cancelled
+ORD0277,2025-12-14,C128,Orxan,Shaki,Home,Air Fryer,4,207.78,0.05,Cash,Completed
+ORD0278,2025-12-27,C101,Kamran,Shaki,Furniture,Desk,1,181.33,0.0,Card,Completed
+ORD0279,2026-01-15,C165,Rauf,Mingachevir,Furniture,Bookshelf,5,74.81,0.05,Online Payment,Returned
+ORD0280,2025-02-18,C146,Aysel,Shaki,Home,Kettle,3,150.17,0.1,Card,Completed
+ORD0281,2025-11-14,C154,Lala,Baku,Books,Excel Book,1,37.75,0.1,Card,Completed
+ORD0282,2025-07-02,C141,Sabina,Mingachevir,Electronics,Power Bank,3,168.45,0.0,Bank Transfer,Cancelled
+ORD0283,2025-01-19,C176,Kamran,Mingachevir,Books,Python Book,5,28.27,0.0,Card,Completed
+ORD0284,2025-09-07,C169,Kamran,Baku,Books,SQL Book,3,57.66,0.0,Cash,Cancelled
+ORD0285,2025-11-20,C194,Aysel,Lankaran,Electronics,Smart Watch,2,315.23,0.0,Bank Transfer,Completed
+ORD0286,2026-01-13,C115,Rauf,Ganja,Clothing,T-Shirt,5,26.72,0.1,Cash,Completed
+ORD0287,2025-07-29,C151,Elvin,Baku,Home,Kettle,1,17.89,0.0,Bank Transfer,Completed
+ORD0288,2026-01-22,C116,Lala,Ganja,Home,Kettle,1,272.2,0.1,Online Payment,Completed
+ORD0289,2025-12-23,C185,Lala,Baku,Home,Coffee Maker,1,39.05,0.1,Card,Returned
+ORD0290,2026-02-24,C199,Samir,Baku,Clothing,Backpack,5,129.26,0.15,Cash,Completed
+ORD0291,2025-07-14,C128,Gunay,Baku,Clothing,Jeans,3,78.4,0.05,Cash,Completed
+ORD0292,2025-10-17,C156,Gunay,Mingachevir,Electronics,Smart Watch,4,188.98,0.0,,Completed
+ORD0293,2026-03-20,C118,Gunay,Sumqayit,Clothing,Sneakers,3,19.2,0.05,Bank Transfer,Returned
+ORD0294,2026-07-30,C169,Kamran,Ganja,Home,Coffee Maker,4,43.86,0.05,Cash,Completed
+ORD0295,2026-01-11,C188,Tural,Sumqayit,Clothing,T-Shirt,3,38.19,0.0,Cash,Completed
+ORD0296,2025-09-19,C159,Samir,Mingachevir,Home,Vacuum Cleaner,2,60.61,0.15,Card,Cancelled
+ORD0297,2025-03-28,C106,Orxan,Ganja,Furniture,Table Lamp,4,130.47,0.05,Card,Cancelled
+ORD0298,2025-10-05,C168,Nigar,Mingachevir,Home,Air Fryer,1,23.82,0.05,Cash,Cancelled
+ORD0299,2026-07-08,C198,Samir,Sumqayit,Books,Data Analytics Book,2,51.6,0.0,Cash,Completed
+ORD0300,2026-05-14,C101,Gunay,Mingachevir,Books,AI Book,3,51.2,0.0,Cash,Completed
+ORD0301,2025-04-09,C182,Kamran,Shaki,Clothing,Sneakers,1,144.09,0.1,Bank Transfer,Cancelled
+ORD0302,2025-06-13,C119,Emil,Sumqayit,Books,AI Book,5,52.33,0.05,Cash,Cancelled
+ORD0303,2026-05-02,C192,Nigar,Baku,Clothing,Backpack,4,138.07,0.05,Cash,Completed
+ORD0304,2025-10-31,C152,Elvin,Ganja,Electronics,Keyboard,4,218.95,0.0,Card,Returned
+ORD0305,2026-05-14,C181,Leyla,Mingachevir,Home,Vacuum Cleaner,3,276.84,0.05,Bank Transfer,Completed
+ORD0306,2025-11-25,C172,Orxan,Mingachevir,Books,Data Analytics Book,1,18.42,0.1,Card,Completed
+ORD0307,2026-05-09,C161,Emil,Ganja,Home,Vacuum Cleaner,5,23.78,0.0,Bank Transfer,Returned
+ORD0308,2025-10-04,C180,Gunay,Ganja,Furniture,Desk,1,232.41,0.0,Online Payment,Returned
+ORD0309,2025-09-21,C126,Aysel,Shaki,Electronics,Keyboard,3,449.06,0.1,Card,Cancelled
+ORD0310,2025-07-07,C173,Emil,Baku,Electronics,Power Bank,4,22.44,0.1,Bank Transfer,Completed
+ORD0311,2025-12-24,C175,Leyla,Sumqayit,Furniture,Table Lamp,4,160.27,0.05,Online Payment,Completed
+ORD0312,2025-12-24,C116,Murad,Baku,Books,Excel Book,2,13.25,0.1,Online Payment,Returned
+ORD0313,2025-01-13,C156,Emil,Lankaran,Clothing,Jeans,2,27.03,0.0,Online Payment,Returned
+ORD0314,2025-11-17,C117,Rauf,Shaki,Home,Kettle,5,181.23,0.0,Bank Transfer,Cancelled
+ORD0315,2025-01-31,C181,Sabina,Shaki,Home,Coffee Maker,2,231.49,0.05,Online Payment,Returned
+ORD0316,2025-01-14,C150,Gunay,Shaki,Clothing,Jacket,4,127.63,0.0,Bank Transfer,Returned
+ORD0317,2026-04-11,C112,Sabina,Shaki,Clothing,Backpack,2,166.27,0.0,Cash,Completed
+ORD0318,2026-03-17,C195,Aysel,Ganja,Electronics,Smart Watch,5,193.05,0.0,Online Payment,Returned
+ORD0319,2026-01-25,C169,Gunay,Baku,Electronics,Wireless Mouse,5,220.8,0.15,Card,Completed
+ORD0320,2026-03-04,C168,Orxan,Ganja,Home,Vacuum Cleaner,3,176.02,0.05,Card,Returned
+ORD0321,2026-04-16,C190,Samir,Baku,Clothing,Sneakers,4,29.73,0.1,Online Payment,Completed
+ORD0322,2025-04-11,C133,Kamran,Lankaran,Books,Excel Book,3,53.53,0.2,Bank Transfer,Completed
+ORD0323,2025-10-20,C142,Aysel,Mingachevir,Electronics,Power Bank,4,224.42,0.15,Bank Transfer,Completed
+ORD0324,2026-03-31,C113,Murad,Mingachevir,Home,Air Fryer,5,15.82,0.05,Cash,Completed
+ORD0325,2025-04-10,C187,Samir,Mingachevir,Electronics,Keyboard,2,334.11,0.05,Online Payment,Completed
+ORD0326,2025-05-29,C128,Kamran,Shaki,Furniture,Bookshelf,1,131.0,0.15,Online Payment,Completed
+ORD0327,2025-04-28,C154,Zehra,Mingachevir,Home,Kettle,4,31.56,0.0,Cash,Returned
+ORD0328,2026-02-02,C110,Leyla,Baku,Books,Excel Book,3,55.38,0.05,Card,Completed
+ORD0329,2026-01-13,C160,Zehra,Shaki,Clothing,Backpack,1,91.58,0.0,Online Payment,Completed
+ORD0330,2026-05-17,C153,Zehra,Sumqayit,Clothing,Jeans,1,156.43,0.0,Cash,Cancelled
+ORD0331,2026-06-03,C157,Lala,Lankaran,Electronics,Headphones,3,337.78,0.1,Card,Completed
+ORD0332,2025-08-13,C187,Rauf,Mingachevir,Home,Coffee Maker,3,170.88,0.0,Bank Transfer,Cancelled
+ORD0333,2026-02-16,C177,Emil,Lankaran,Electronics,Power Bank,4,126.04,0.0,Cash,Completed
+ORD0334,2025-05-23,C132,Gunay,Shaki,Books,AI Book,1,36.31,0.0,Cash,Completed
+ORD0335,2026-01-29,C145,Leyla,Sumqayit,Furniture,Office Chair,5,229.17,0.1,Online Payment,Completed
+ORD0336,2025-02-18,C147,Orxan,Shaki,Clothing,Sneakers,4,57.88,0.05,Bank Transfer,Completed
+ORD0337,2025-01-05,C184,Orxan,Baku,Furniture,Desk,3,77.14,0.0,Card,Completed
+ORD0338,2026-07-27,C121,Lala,Mingachevir,Home,Blender,2,83.94,0.05,Cash,Cancelled
+ORD0339,2026-05-08,C133,Aysel,Sumqayit,Home,Kettle,5,152.18,0.05,Bank Transfer,Completed
+ORD0340,2025-09-09,C148,Kamran,Sumqayit,Clothing,T-Shirt,2,47.49,0.05,Online Payment,Completed
+ORD0341,2025-11-07,C182,Zehra,Shaki,Books,Python Book,4,55.81,0.1,Card,Completed
+ORD0342,2025-09-02,C180,Murad,Ganja,Books,SQL Book,5,44.31,0.15,Cash,Completed
+ORD0343,2025-07-06,C184,Kamran,Ganja,Electronics,Keyboard,5,306.64,0.05,Card,Cancelled
+ORD0344,2026-05-27,C128,Zehra,Sumqayit,Furniture,Table Lamp,5,144.25,0.0,Online Payment,Completed
+ORD0345,2025-12-15,C167,Gunay,Mingachevir,Home,Kettle,5,85.06,0.0,Card,Returned
+ORD0346,2026-08-24,C193,Sabina,Baku,Home,Blender,3,298.08,0.05,Card,Returned
+ORD0347,2026-08-26,C190,Lala,Baku,Home,Vacuum Cleaner,2,286.01,0.2,Card,Completed
+ORD0348,2025-04-24,C101,Zehra,Ganja,Books,Data Analytics Book,5,29.61,0.2,Bank Transfer,Completed
+ORD0349,2025-07-12,C117,Elvin,Ganja,Home,Vacuum Cleaner,5,229.26,0.0,Online Payment,Cancelled
+ORD0350,2026-08-11,C126,Leyla,Sumqayit,Home,Vacuum Cleaner,5,136.84,0.05,Bank Transfer,Completed
+ORD0351,2025-03-25,C115,Murad,Lankaran,Books,Excel Book,5,47.68,0.05,Card,Completed
+ORD0352,2025-09-28,C199,Nigar,Baku,Clothing,T-Shirt,3,75.12,0.0,Bank Transfer,Cancelled
+ORD0353,2026-06-20,C104,Leyla,Ganja,Clothing,Jeans,1,142.69,0.05,Card,Completed
+ORD0354,2025-06-30,C162,Rauf,Baku,Books,Excel Book,5,28.37,0.05,Cash,Returned
+ORD0355,2026-01-26,C138,Nigar,Mingachevir,Books,Python Book,4,58.6,0.0,Bank Transfer,Returned
+ORD0356,2026-05-26,C136,Emil,Baku,Clothing,Jacket,5,66.16,0.1,Cash,Completed
+ORD0357,2025-07-25,C157,Lala,Sumqayit,Books,Python Book,4,21.15,0.2,Online Payment,Returned
+ORD0358,2025-09-29,C159,Sabina,Ganja,Books,Excel Book,2,15.78,0.0,Cash,Returned
+ORD0359,2025-01-10,C186,Rauf,Baku,Electronics,Headphones,4,429.46,0.15,Bank Transfer,Completed
+ORD0360,2025-07-10,C189,Leyla,Lankaran,Home,Kettle,1,174.63,0.15,Online Payment,Completed
+ORD0361,2026-01-13,C139,Samir,Shaki,Home,Coffee Maker,1,49.78,0.0,Bank Transfer,Completed
+ORD0362,2025-09-19,C184,Orxan,Mingachevir,Books,Python Book,3,25.96,0.0,Card,Completed
+ORD0363,2026-04-19,C115,Orxan,Lankaran,Books,Python Book,2,24.22,0.0,Bank Transfer,Completed
+ORD0364,2025-11-11,C129,Leyla,Shaki,Home,Blender,1,190.53,0.05,Online Payment,Completed
+ORD0365,2025-12-02,C106,Kamran,Mingachevir,Books,Python Book,3,24.06,0.2,Online Payment,Completed
+ORD0366,2025-04-05,C168,Gunay,Ganja,Home,Blender,3,245.51,0.05,Online Payment,Returned
+ORD0367,2026-08-18,C151,Murad,Lankaran,Home,Blender,4,252.36,0.0,Online Payment,Returned
+ORD0368,2025-05-20,C117,Elvin,Baku,Books,Data Analytics Book,5,17.95,0.1,Cash,Cancelled
+ORD0369,2026-05-04,C119,Elvin,Mingachevir,Home,Coffee Maker,3,96.44,0.0,Bank Transfer,Completed
+ORD0370,2026-01-26,C179,Sabina,Shaki,Electronics,Power Bank,3,357.49,0.1,Card,Completed
+ORD0371,2025-12-27,C157,Kamran,Ganja,Books,SQL Book,5,56.95,0.2,Cash,Returned
+ORD0372,2025-03-23,C190,Orxan,Baku,Furniture,Monitor Stand,1,343.27,0.0,Online Payment,Completed
+ORD0373,2025-07-27,C102,Gunay,Ganja,Home,Blender,2,162.29,0.1,Bank Transfer,Completed
+ORD0374,2025-05-28,C119,Orxan,Sumqayit,Books,AI Book,2,23.46,0.0,Cash,Returned
+ORD0375,2026-04-26,C196,Elvin,Baku,Home,Vacuum Cleaner,3,207.67,0.0,Online Payment,Completed
+ORD0376,2025-06-03,C189,Zehra,Mingachevir,Books,AI Book,3,57.23,0.1,Online Payment,Cancelled
+ORD0377,2025-01-25,C128,Aysel,Baku,Home,Air Fryer,5,214.82,0.05,Card,Completed
+ORD0378,2026-02-24,C173,Samir,Shaki,Clothing,Sneakers,2,173.0,0.1,Cash,Returned
+ORD0379,2025-02-23,C150,Leyla,Lankaran,Electronics,Wireless Mouse,3,23.58,0.0,Card,Completed
+ORD0380,2025-09-05,C192,Aysel,Sumqayit,Clothing,Backpack,1,99.6,0.1,Cash,Completed
+ORD0381,2025-04-21,C196,Orxan,Baku,Books,Python Book,1,50.56,0.0,Bank Transfer,Completed
+ORD0382,2025-11-10,C133,Tural,Ganja,Home,Kettle,2,136.06,0.15,Bank Transfer,Completed
+ORD0383,2026-05-19,C146,Leyla,Ganja,Clothing,Sneakers,1,61.75,0.0,Bank Transfer,Returned
+ORD0384,2026-05-24,C106,,Baku,Home,Blender,1,136.84,0.15,Card,Returned
+ORD0385,2025-07-06,C185,Murad,Mingachevir,Books,Python Book,2,9.82,0.0,Online Payment,Returned
+ORD0386,2026-07-03,C179,Gunay,Ganja,Furniture,Table Lamp,2,201.21,0.05,Online Payment,Completed
+ORD0387,2025-08-02,C107,Samir,Sumqayit,Furniture,Office Chair,4,94.35,0.0,Card,Completed
+ORD0388,2025-02-07,C185,Samir,Mingachevir,Furniture,Office Chair,1,113.28,0.0,Card,Completed
+ORD0389,2026-08-18,C135,Orxan,Mingachevir,Home,Kettle,1,250.55,0.0,Online Payment,Completed
+ORD0390,2025-11-15,C152,Kamran,Baku,Furniture,Office Chair,5,144.2,0.0,Online Payment,Cancelled
+ORD0391,2025-11-10,C139,Aysel,Baku,Clothing,Jeans,5,76.63,0.15,Cash,Completed
+ORD0392,2026-03-01,C105,Zehra,Baku,Books,Data Analytics Book,4,26.14,0.15,Bank Transfer,Returned
+ORD0393,2026-08-22,C113,Lala,Lankaran,Electronics,Headphones,5,88.96,0.0,Online Payment,Cancelled
+ORD0394,2025-01-18,C194,Elvin,Shaki,Furniture,Monitor Stand,1,264.37,0.0,Cash,Completed
+ORD0395,2025-04-25,C136,Murad,Baku,Furniture,Bookshelf,2,107.29,0.1,Cash,Returned
+ORD0396,2025-12-29,C109,Emil,Baku,Home,Air Fryer,1,177.99,0.05,Cash,Completed
+ORD0397,2026-05-14,C113,Elvin,Baku,Electronics,Power Bank,2,235.05,0.0,Bank Transfer,Cancelled
+ORD0398,2025-10-22,C188,Zehra,Baku,Electronics,Power Bank,5,70.4,0.05,Card,Completed
+ORD0399,2025-07-12,C162,Aysel,Sumqayit,Furniture,Office Chair,1,334.46,0.1,Bank Transfer,Cancelled
+ORD0400,2026-01-15,C116,Rauf,Shaki,Books,Data Analytics Book,4,43.81,0.1,Online Payment,Completed
+ORD0401,2026-03-01,C151,Elvin,Baku,Books,Python Book,5,53.46,0.0,Cash,Completed
+ORD0402,2026-06-26,C157,Kamran,Ganja,Books,Data Analytics Book,3,8.7,0.0,Cash,Returned
+ORD0403,2025-12-01,C192,Orxan,Baku,Clothing,T-Shirt,1,137.61,0.0,Cash,Cancelled
+ORD0404,2025-11-19,C183,Leyla,Shaki,Books,AI Book,3,59.85,0.1,Online Payment,Completed
+ORD0405,2026-04-24,C196,Tural,Shaki,Clothing,Jacket,3,22.48,0.1,Online Payment,Completed
+ORD0406,2026-04-27,C161,Kamran,Baku,Electronics,Smart Watch,4,291.76,0.1,Cash,Completed
+ORD0407,2026-04-25,C158,Orxan,Baku,Books,Excel Book,3,26.21,0.1,Online Payment,Completed
+ORD0408,2025-09-22,C192,Elvin,Mingachevir,Books,Data Analytics Book,2,16.83,0.15,Bank Transfer,Completed
+ORD0409,2026-04-30,C186,Lala,Ganja,Books,SQL Book,4,54.23,0.05,Card,Completed
+ORD0410,2026-01-21,C194,Lala,Lankaran,Home,Coffee Maker,2,83.83,0.05,Bank Transfer,Completed
+ORD0411,2026-01-06,C190,Sabina,Ganja,Furniture,Desk,1,72.77,0.0,Cash,Completed
+ORD0412,2025-05-09,C194,Samir,Lankaran,Home,Vacuum Cleaner,5,196.37,0.1,Card,Completed
+ORD0413,2025-07-26,C104,Sabina,Shaki,Clothing,Jeans,4,124.22,0.1,Online Payment,Completed
+ORD0414,2026-07-29,C122,Elvin,Mingachevir,Electronics,Smart Watch,5,113.41,0.15,Bank Transfer,Cancelled
+ORD0415,2025-08-05,C156,Lala,Sumqayit,Clothing,Jeans,5,144.32,0.05,Card,Returned
+ORD0416,2025-07-01,C138,Tural,Lankaran,Furniture,Desk,4,269.36,0.0,Bank Transfer,Completed
+ORD0417,2025-12-17,C115,Samir,Mingachevir,Books,SQL Book,1,8.3,0.2,Bank Transfer,Completed
+ORD0418,2026-05-23,C148,Nigar,Sumqayit,Books,Data Analytics Book,2,29.11,0.1,Online Payment,Completed
+ORD0419,2025-05-05,C110,Leyla,Baku,Furniture,Bookshelf,4,330.29,0.2,Bank Transfer,Completed
+ORD0420,2025-10-03,C148,Leyla,Sumqayit,Home,Blender,2,216.61,0.0,Card,Completed
+ORD0421,2026-07-16,C104,Elvin,Baku,Books,Data Analytics Book,2,31.04,0.1,Card,Returned
+ORD0422,2025-06-04,C155,Elvin,Ganja,Home,Vacuum Cleaner,3,252.36,0.0,Card,Completed
+ORD0423,2026-04-03,C122,Leyla,Baku,Home,Coffee Maker,4,199.86,0.05,Online Payment,Completed
+ORD0424,2026-03-10,C120,Murad,Baku,Furniture,Office Chair,3,297.96,0.1,Online Payment,Returned
+ORD0425,2025-03-31,C194,Samir,Mingachevir,Clothing,Sneakers,2,120.44,0.05,Cash,Completed
+ORD0426,2025-05-30,C120,Kamran,Mingachevir,Clothing,Jeans,2,137.19,0.0,Online Payment,Completed
+ORD0427,2025-02-14,C159,Emil,Sumqayit,Clothing,Sneakers,5,49.85,0.1,Online Payment,Completed
+ORD0428,2025-08-22,C181,Emil,Baku,Home,Vacuum Cleaner,5,23.56,0.0,Online Payment,Completed
+ORD0429,2025-03-05,C142,Lala,Mingachevir,Books,AI Book,3,50.48,0.05,Cash,Completed
+ORD0430,2025-10-03,C150,Elvin,Ganja,Clothing,Jeans,4,52.85,0.05,Online Payment,Completed
+ORD0431,2025-10-23,C156,Sabina,Sumqayit,Books,Python Book,5,58.32,0.0,Online Payment,Completed
+ORD0432,2025-01-13,C196,Orxan,Mingachevir,Clothing,T-Shirt,2,73.36,0.1,Bank Transfer,Completed
+ORD0433,2025-04-06,C162,Nigar,Shaki,Furniture,Bookshelf,2,210.29,0.05,Cash,Completed
+ORD0434,2025-05-25,C165,Sabina,Ganja,Clothing,Jacket,1,95.49,0.1,Card,Completed
+ORD0435,2026-06-14,C176,Kamran,Baku,Electronics,Power Bank,2,169.24,0.0,Bank Transfer,Cancelled
+ORD0436,2025-08-06,C191,Nigar,Ganja,Electronics,Headphones,5,424.38,0.1,Bank Transfer,Completed
+ORD0437,2025-08-15,C148,Murad,Lankaran,Clothing,Sneakers,3,123.58,0.1,Cash,Cancelled
+ORD0438,2026-01-25,C183,Samir,Baku,Books,Python Book,4,50.53,0.05,Bank Transfer,Returned
+ORD0439,2025-07-06,C163,Elvin,Lankaran,Clothing,Jacket,5,106.19,0.0,Online Payment,Completed
+ORD0440,2026-08-31,C138,Kamran,Shaki,Books,SQL Book,1,54.97,0.1,,Completed
+ORD0441,2025-03-17,C149,Tural,Mingachevir,Furniture,Bookshelf,5,316.08,0.0,Card,Completed
+ORD0442,2026-01-18,C122,Orxan,Mingachevir,Books,SQL Book,5,35.14,0.15,Cash,Completed
+ORD0443,2026-04-26,C101,Emil,Mingachevir,Clothing,Jacket,1,138.79,0.0,Online Payment,Completed
+ORD0444,2025-11-24,C108,Tural,Ganja,Home,Kettle,3,284.23,0.05,Card,Completed
+ORD0445,2025-01-02,C182,Emil,Baku,Clothing,T-Shirt,5,130.91,0.1,Card,Returned
+ORD0446,2026-08-29,C121,Sabina,Baku,Furniture,Monitor Stand,3,245.81,0.1,Card,Completed
+ORD0447,2026-04-16,C152,Lala,Baku,Furniture,Table Lamp,1,190.41,0.05,Cash,Completed
+ORD0448,2025-09-22,C132,Emil,Lankaran,Clothing,Sneakers,1,139.37,0.1,Card,Completed
+ORD0449,2025-08-20,C142,Lala,Sumqayit,Home,Air Fryer,3,123.23,0.05,Bank Transfer,Completed
+ORD0450,2026-02-28,C123,Kamran,Shaki,Electronics,Wireless Mouse,2,311.28,0.0,Card,Completed
+ORD0451,2025-05-19,C188,Aysel,Mingachevir,Electronics,Headphones,3,120.8,0.0,Online Payment,Completed
+ORD0452,2025-05-27,C156,Elvin,Lankaran,Clothing,Sneakers,2,115.89,0.1,Card,Completed
+ORD0453,2025-06-26,C143,Orxan,Ganja,Clothing,Jacket,5,72.82,0.0,Online Payment,Completed
+ORD0454,2026-05-09,C183,Zehra,Lankaran,Electronics,Smart Watch,3,287.76,0.0,Online Payment,Completed
+ORD0455,2026-03-23,C176,Kamran,Ganja,Clothing,T-Shirt,4,29.68,0.0,Bank Transfer,Completed
+ORD0456,2026-08-02,C124,Lala,Shaki,Clothing,Backpack,2,88.71,0.15,Online Payment,Completed
+ORD0457,2025-07-14,C158,Tural,Baku,Home,Vacuum Cleaner,3,98.87,0.0,Card,Completed
+ORD0458,2026-03-10,C184,Gunay,Lankaran,Furniture,Desk,1,303.96,0.05,Cash,Returned
+ORD0459,2026-03-09,C186,Nigar,Shaki,Home,Blender,5,187.08,0.05,Cash,Cancelled
+ORD0460,2025-10-29,C125,Nigar,Baku,Furniture,Desk,2,73.87,0.05,Card,Completed
+ORD0461,2025-07-11,C167,Kamran,Ganja,Clothing,Jacket,2,110.93,0.0,Card,Completed
+ORD0462,2025-11-07,C137,Kamran,Sumqayit,Books,Excel Book,5,13.13,0.05,Card,Completed
+ORD0463,2025-01-30,C111,Gunay,Lankaran,Home,Blender,4,225.58,0.15,Card,Completed
+ORD0464,2026-08-29,C173,Sabina,Ganja,Books,Excel Book,5,50.57,0.0,Cash,Completed
+ORD0465,2025-10-05,C140,Nigar,Baku,Electronics,Smart Watch,1,245.14,0.0,,Returned
+ORD0466,2025-01-22,C138,Leyla,Mingachevir,Furniture,Monitor Stand,1,268.46,0.0,Cash,Cancelled
+ORD0467,2026-03-05,C106,Leyla,Shaki,Electronics,Headphones,5,174.08,0.05,Card,Completed
+ORD0468,2025-03-01,C106,Nigar,Shaki,Books,Python Book,2,22.34,0.1,Card,Completed
+ORD0469,2026-01-25,C170,Tural,Ganja,Furniture,Monitor Stand,2,129.78,0.0,Card,Returned
+ORD0470,2025-01-19,C163,Tural,Lankaran,Books,AI Book,3,14.05,0.0,Bank Transfer,Completed
+ORD0471,2026-03-08,C144,Kamran,Mingachevir,Clothing,Sneakers,5,81.53,0.05,Bank Transfer,Completed
+ORD0472,2025-05-21,C170,Zehra,Shaki,Electronics,Keyboard,5,172.61,0.0,Bank Transfer,Returned
+ORD0473,2025-07-09,C104,Samir,Ganja,Clothing,Sneakers,4,19.81,0.05,Cash,Completed
+ORD0474,2026-08-06,C157,Leyla,Shaki,Home,Coffee Maker,2,104.22,0.0,Cash,Cancelled
+ORD0475,2025-06-20,C145,Sabina,Mingachevir,Books,Excel Book,2,28.71,0.0,Online Payment,Completed
+ORD0476,2026-02-28,C196,Rauf,Mingachevir,Books,SQL Book,2,51.9,0.05,Online Payment,Completed
+ORD0477,2026-02-05,C196,Orxan,Lankaran,Home,Blender,1,16.82,0.1,Card,Returned
+ORD0478,2026-05-30,C109,Gunay,Lankaran,Home,Coffee Maker,1,129.06,0.05,Bank Transfer,Completed
+ORD0479,2025-06-24,C169,Emil,Lankaran,Electronics,Wireless Mouse,1,287.78,0.0,Card,Completed
+ORD0480,2025-11-10,C194,Sabina,Baku,Furniture,Desk,1,56.92,0.1,Online Payment,Completed
+ORD0481,2026-08-20,C121,Elvin,Mingachevir,Furniture,Bookshelf,1,105.2,0.0,Online Payment,Completed
+ORD0482,2025-02-23,C175,Aysel,Sumqayit,Clothing,T-Shirt,2,84.24,0.15,Bank Transfer,Completed
+ORD0483,2025-08-27,C148,Zehra,Lankaran,Electronics,Smart Watch,4,154.89,0.05,Bank Transfer,Returned
+ORD0484,2025-10-10,C179,Emil,Shaki,Furniture,Desk,4,118.08,0.05,Cash,Completed
+ORD0485,2026-06-04,C169,Zehra,Lankaran,Electronics,Power Bank,4,156.55,0.0,Bank Transfer,Completed
+ORD0486,2025-06-29,C137,Samir,Sumqayit,Books,SQL Book,4,42.47,0.1,Online Payment,Completed
+ORD0487,2025-06-14,C127,Sabina,Lankaran,Books,SQL Book,5,18.85,0.0,Cash,Completed
+ORD0488,2025-01-30,C145,Leyla,Ganja,Furniture,Desk,5,48.14,0.0,Cash,Cancelled
+ORD0489,2026-07-04,C170,Orxan,Baku,Clothing,Jacket,4,162.79,0.1,Online Payment,Completed
+ORD0490,2026-08-10,C137,Elvin,Ganja,Furniture,Monitor Stand,4,80.02,0.0,Cash,Cancelled
+ORD0491,2025-05-15,C168,Leyla,Ganja,Furniture,Office Chair,3,79.98,0.05,Card,Completed
+ORD0492,2025-05-18,C102,Murad,Lankaran,Books,SQL Book,1,30.59,0.05,Online Payment,Returned
+ORD0493,2025-12-07,C104,Sabina,Ganja,Books,Data Analytics Book,2,22.5,0.0,Card,Completed
+ORD0494,2026-07-13,C192,Nigar,Ganja,Home,Air Fryer,2,70.58,0.1,Online Payment,Completed
+ORD0495,2025-06-20,C175,Samir,Sumqayit,Home,Blender,4,97.03,0.0,Bank Transfer,Completed
+ORD0496,2025-11-12,C154,Lala,Lankaran,Furniture,Office Chair,4,248.41,0.1,Card,Completed
+ORD0497,2025-12-27,C142,Emil,Mingachevir,Clothing,Jeans,5,53.5,0.1,Online Payment,Completed
+ORD0498,2025-06-11,C132,Zehra,Baku,Home,Vacuum Cleaner,2,224.23,0.05,Card,Completed
+ORD0499,2026-05-20,C198,Orxan,Lankaran,Furniture,Office Chair,2,229.27,0.05,Online Payment,Completed
+ORD0500,2025-03-19,C166,Samir,Lankaran,Home,Blender,5,204.19,0.05,Card,Cancelled
